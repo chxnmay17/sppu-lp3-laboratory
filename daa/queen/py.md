@@ -50,24 +50,6 @@ if __name__ == "__main__":
             print(*row)
 ```
 
----
 
-### 🧮 Example Run
 
-**Input:**
 
-```
-4 1 2
-```
-
-**Output:**
-
-```
-Final N-Queens Matrix:
-0 1 0 0
-0 0 0 1
-1 0 0 0
-0 0 1 0
-```
-
----
